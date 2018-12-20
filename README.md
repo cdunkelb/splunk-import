@@ -4,8 +4,8 @@ Designed to take a big 'ol splunk CSV export and turn it into something more dig
 
 ## Usage
 
-$ python __init__.py WORKINGDIR CSVFILE OUTPUTFILE
+$ python `__init__.py` WORKINGDIR CSVFILE OUTPUTFILE
 
-WORKINGDIR - The directory that contains the CSV file to be parsed
-CSVFILE - The splunk CSV export
-OUTPUTFILE - file used for any single file export
+- WORKINGDIR - The directory that contains the CSV file to be parsed
+- CSVFILE - The splunk CSV export
+- OUTPUTFILE - file used for any single file export
